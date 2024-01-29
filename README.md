@@ -17,7 +17,8 @@ Este projeto foi desenvolvido com o intuito de exibir informaçoes de desempenho
  
 <div align='center'>
     <h1>Aplicação<h1>
-    <img src='demo.png' title='alt' width='400px' />
+    <img src='demo.png' title='alt' width='200px' />
+    <a href="">fazer download</a>
 </div>
             
 ## Ferramentas utilizadas
