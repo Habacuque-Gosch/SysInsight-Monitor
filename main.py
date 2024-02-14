@@ -9,8 +9,8 @@ tela = ctk.CTk()
 
 
 
-# CLASSE RESPONSÁVEL POR TODA A APLICAÇÃO
 class Application():
+    # CLASSE RESPONSÁVEL POR TODA A APLICAÇÃO
     def __init__(self):
         self.tela = tela
         self.tema()
