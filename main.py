@@ -88,8 +88,7 @@ class Application():
         #     gpu_img_label.place(x=18, y=10)
 
         #     gpu = psutil.cpu_percent(4)
-
-
+        
         #     gpu_use_label = ctk.CTkLabel(master=tela, text=f"{gpu}%", font=('krona_one', 14, 'bold'), fg_color="#0F0D0D", width=0, height=0)
         #     gpu_use_label.place(x=80, y=25)
         #     gpu_use_label.after(250, gpu_usage)
